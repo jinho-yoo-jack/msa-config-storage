@@ -1,6 +1,6 @@
 spring:
   application:
-    name: order-service
+    name: order
   profiles:
     active: dev
 server:
